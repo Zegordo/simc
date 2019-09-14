@@ -1,0 +1,112 @@
+# SimC Addon 1.12.2
+# Requires SimulationCraft 820-01 or newer
+
+rogue="Триди"
+level=120
+race=undead
+region=eu
+server=howling_fjord
+role=attack
+professions=engineering=175/enchanting=175
+talents=2132321
+spec=outlaw
+
+azerite_essences=23:3/300573/27:3/300575/300576
+# azerite_essences_available=4:4/5:3/6:3/12:3/14:3/15:3/22:3/23:3/27:3/28:3/32:3
+
+head=,id=168694,bonus_id=4775,context=13,azerite_powers=129/501/22/503/13
+neck=,id=158075,bonus_id=6316/4932/4933/1596,context=11,azerite_level=63
+shoulder=,id=159339,bonus_id=5448/1617/4786/6271,context=35,azerite_powers=129/446/30/87
+back=,id=159292,bonus_id=5009/1597/5850/4783,context=16
+chest=,id=159303,bonus_id=5448/1617/4786/6269,context=35,azerite_powers=180/129/31/87
+wrist=,id=159332,bonus_id=5010/1602/5850/4783,context=16
+hands=,id=159321,enchant_id=5937,bonus_id=5010/42/1612/5850/4784,context=35
+waist=,id=167248,bonus_id=5830/6348/1532/5865/4784,context=39
+legs=,id=170108,gem_id=168637,bonus_id=6300/4802/43/6294/1512/4786
+feet=,id=159295,bonus_id=5010/1612/5850/4784,context=35
+finger1=,id=158362,enchant_id=6108,bonus_id=5010/1612/4783,context=35
+finger2=,id=159458,enchant_id=6111,gem_id=168642,bonus_id=5010/4802/1602/5865/4784,context=16
+trinket1=,id=158374,bonus_id=5010/1582/4783,context=35
+trinket2=,id=169311,bonus_id=4799/1502/4786,context=5
+main_hand=,id=159653,enchant_id=6148,bonus_id=5010/1612/4783,context=35
+off_hand=,id=159635,enchant_id=5965,bonus_id=5010/1612/4783,context=35
+
+### Gear from Bags
+#
+# Заряженные защитные очки типа "B03-HE-C3HN3" (450)
+# head=,id=168694,bonus_id=4775,context=13,azerite_powers=175/501/22/503/13
+#
+# Заряженные защитные очки типа "B03-HE-C3HN3" (450)
+# head=,id=168694,bonus_id=4775,context=13,azerite_powers=136/501/22/503/13
+#
+# Кожаное наплечье отъявленного гладиатора (435)
+# shoulder=,id=167442,bonus_id=6349/6333/1542/4786/6268/4775,context=25,azerite_powers=175/488/31/83/13
+#
+# Кожаный наплеч отъявленного гладиатора (435)
+# shoulder=,id=167247,bonus_id=6329/6348/1542/4786/6268/4775,context=56,azerite_powers=408/136/22/548/13
+#
+# Мантия координации (58)
+# back=,id=65274,context=14
+#
+# Плащ азш'ари - призывательницы бурь (385)
+# back=,id=169489,bonus_id=6288/6300
+#
+# Жилет мастера шпионажа (445)
+# chest=,id=155860,bonus_id=5448/1617/4786/6269,context=35,azerite_powers=413/414/21/15
+#
+# Мундир льстеца (435)
+# chest=,id=168350,bonus_id=4823/1502/4786/6266/4775,context=5,azerite_powers=249/575/22/473/13
+#
+# Кожаный нагрудный доспех отъявленного гладиатора (435)
+# chest=,id=167418,bonus_id=6348/5831/1542/4786/6266/4775,context=25,azerite_powers=180/129/22/87/13
+#
+# Жакет гиблохвата (420)
+# chest=,id=157942,bonus_id=1607/4786/6263/4775,context=28,azerite_powers=175/413/22/15/13
+#
+# Облученный кольчужный жилет (1)
+# shirt=,id=169878
+#
+# Перчатки оскверненных вод (430)
+# hands=,id=159321,bonus_id=5010/41/1602/4786,context=16
+#
+# Аметистовая печать верховного волхва (178)
+# finger1=,id=142469,enchant_id=5427,context=11
+#
+# Перстень двора высокорожденных (430)
+# finger1=,id=168890,enchant_id=6111,gem_id=168642,bonus_id=4799/1808/1502/4786,context=5
+#
+# Перстень отъявленного гладиатора (435)
+# finger1=,id=167374,enchant_id=6111,gem_id=168642,bonus_id=6336/4802/6348/1547/4786,context=56
+#
+# Оберег отъявленного гладиатора (415)
+# trinket1=,id=167384,gem_id=168642,bonus_id=4802/6349/1527/4786/5843,context=25
+#
+# Резонирующее сердце Азерокка (410)
+# trinket1=,id=159612,gem_id=154127,bonus_id=5010/4802/1582/4783,context=35
+#
+# Жетон отъявленного гладиатора (410)
+# trinket1=,id=167380,bonus_id=5825/4802/6349/1522/4786,context=38
+#
+# Карманное вычислительное устройство (414)
+# trinket1=,id=167555,gem_id=167672/168746/168435,gem_bonus_id=0/1461:5853:6319,bonus_id=1486,context=11
+#
+# Темный фетиш отъявленного гладиатора (420)
+# trinket1=,id=167383,bonus_id=5830/6349/1532/4786,context=39
+#
+# Коготь отъявленного гладиатора (430)
+# main_hand=,id=171161,bonus_id=6349/1542/4786/5843,context=26
+#
+# Пронзающий сердца сталактит (440)
+# main_hand=,id=159134,enchant_id=6148,bonus_id=5010/1612/4783,context=35
+#
+# Жало неведомых глубин (440)
+# main_hand=,id=159135,enchant_id=5963,bonus_id=5010/1612/4783,context=35
+#
+# Коготь отъявленного гладиатора (430)
+# off_hand=,id=171161,bonus_id=6349/1542/4786/5843,context=26
+#
+# Жало неведомых глубин (440)
+# off_hand=,id=159135,enchant_id=5963,bonus_id=5010/1612/4783,context=35
+#
+# Пронзающий сердца сталактит (440)
+# off_hand=,id=159134,enchant_id=6148,bonus_id=5010/1612/4783,context=35
